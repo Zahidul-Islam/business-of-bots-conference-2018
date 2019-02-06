@@ -1,0 +1,22 @@
+{
+  "name": "dialogflow-workshop",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zahidul-Islam/businessofbots.git"
+  },
+  "author": "Zahidul Islam <zahidsharp@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zahidul-Islam/businessofbots/issues"
+  },
+  "homepage": "https://github.com/Zahidul-Islam/businessofbots#readme",
+  "dependencies": {
+    "axios": "0.18.0"
+  }
+}
