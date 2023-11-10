@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Zahidul-Islam/businessofbots#readme",
   "dependencies": {
-    "axios": "0.18.0"
+    "axios": "1.6.0"
   }
 }
